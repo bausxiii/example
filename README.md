@@ -2,7 +2,7 @@
 
 This is a sample readme file for our GitHub repo.
 
-* Abc
+* ABCDEFG
 * abcdefg
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
